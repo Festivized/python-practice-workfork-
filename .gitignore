@@ -90,12 +90,17 @@ venv.bak/
 # IDE files
 .idea/
 .vscode/
+.history/
 *.iml
 
 # macOS
 .DS_Store
 .AppleDouble
 .LSOverride
-
-# macOS Finder cache
+.Spotlight-V100
+.Trashes
 .com.apple.desktopservices.d
+
+# Windows
+Thumbs.db
+ehthumbs.db
